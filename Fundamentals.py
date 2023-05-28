@@ -46,4 +46,4 @@ while name.lower() != "heisenberg":
     print("Fuck off! I'm the one who knocks!")
     name = input("Say my actual name!\n")
 print("You're goddamn right!")
-#The ‘while’ statement which can be used to loop a certain set of conditional code until a specific result is achieved. -In this instance, this while loop prompts the user until the correct name is entered.
+#The ‘while’ statement which can be used to loop a certain set of conditional code until a specific result is achieved. -In this instance, the while loop prompts the user until the correct name is entered.
