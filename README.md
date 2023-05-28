@@ -1,5 +1,5 @@
 # What does it do?
->Nothing. This repository is simply for my personal use of storing information on codes I encounter.
+>Nothing. This repository is simply for my personal use of storing information on codes I encounter. The intent is that every file also provides accurate, working examples of said code(s).
 ## Personal Info
 ---
 Some Links:
