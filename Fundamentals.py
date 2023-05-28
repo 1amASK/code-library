@@ -40,10 +40,10 @@ else:
 The ‘if’ and ‘else’ statement which can be used to make simple, conditional triggers for the compiler to run certain, specific codes.
 """
 
-#WHILE STATEMENT
+#WHILE LOOP
 name = input("Say my name!\n")
 while name.lower() != "heisenberg":
     print("Fuck off! I'm the one who knocks!")
     name = input("Say my actual name!\n")
 print("You're goddamn right!")
-#The ‘while’ statement which can be used to loop a certain set of conditional code until a specific result is achieved.
+#The ‘while’ statement which can be used to loop a certain set of conditional code until a specific result is achieved. -In this instance, this while loop prompts the user until the correct name is entered.
