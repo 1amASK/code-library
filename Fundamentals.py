@@ -17,8 +17,8 @@ int() #turns the variable called upon or the value within the paranthesis into a
 
 float() #turns the variable called upon or the value within the paranthesis into a floating interger; for examples 3 becomes 3.0
 
-first_name.lower() #turns the first letter of the string uppercase
-first_name.upper() #turns the entire string lowercase
+first_name.lower() #turns the entire string lowercase
+first_name.upper() #turns the entire string uppercase
 
 
 #OUTPUT & INPUT
