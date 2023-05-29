@@ -67,6 +67,12 @@ example1.title() #capitalizes the first letter of each word, while the rest rema
 
 #example1.join() #joins an array of strings
 
+"""
+    -List of String Functions.
+        -Strings are considered as objects and, for that reason, can be manipulated without directly modifying the original value unless told to.
+        -The index of a string object begins with 0 being the first letter. And counts backwards from -1.
+"""
+
 #Example Codes
 example1 = "String Test"
 print(example1.lower()) #=> "string test"
