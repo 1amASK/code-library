@@ -51,7 +51,7 @@ while name.lower() != "heisenberg":
 print("You're goddamn right!")
 #The ‘while’ statement which can be used to loop a certain set of conditional code until a specific result is achieved. -In this instance, the while loop prompts the user until the correct name is entered.
 
-#STRING FUNCTIONS
+#BASIC STRING FUNCTIONS
 example1 = "String"
 
 example1.upper() #turns the entire string uppercase; does not modify the original string, only returns a new string
